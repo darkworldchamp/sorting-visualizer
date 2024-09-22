@@ -9,7 +9,7 @@ A web-based sorting visualizer showcasing popular sorting algorithms. The projec
 5. **Quick Sort**
 
 ## Demo
-
+![Screenshot 2024-09-22 110932](https://github.com/user-attachments/assets/7ef57f1e-a7f4-4868-b6fe-1f2613432f41)
 
 
 ## Features
